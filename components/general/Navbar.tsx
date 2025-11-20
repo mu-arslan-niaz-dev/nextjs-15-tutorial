@@ -17,7 +17,7 @@ export function Navbar() {
       <div className="flex items-center gap-6">
         <Link href={"/"}>
           <h1 className="text-3xl font-semibold">
-            Blog<span className="text-blue-500">Marshal</span>
+            Test<span className="text-blue-500">Co</span>
           </h1>
         </Link>
         <div className="hiddem sm:flex items-center gap-6">
